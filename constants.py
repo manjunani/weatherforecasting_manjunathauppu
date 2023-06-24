@@ -1,4 +1,3 @@
-API_KEY="efc307e5d8msh4de8db72ff57f64p1e9573jsn86b08a91a938"
 CHANGABLE_KEY_ITEMS = {
     "lat": ["latitude", "lat"],
     "lon": ["longitude", "lon"],
