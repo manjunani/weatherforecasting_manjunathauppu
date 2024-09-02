@@ -1,2 +1,4 @@
 msft_webapp/
 __pycache__/
+.DS_Store
+.vscode
